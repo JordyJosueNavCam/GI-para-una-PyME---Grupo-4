@@ -219,6 +219,16 @@ Para ejecutar el sistema, asegúrate de tener instaladas las siguientes dependen
 - **Sistema operativo de desarrollo:** Windows / Linux / macOS.
 
 ---
+### Evidencia de Reunión de Coordinación
+
+Como parte del proceso colaborativo de desarrollo, el equipo del **Grupo 4** realizó reuniones virtuales para planificar, codificar y revisar el avance del proyecto. A continuación, se muestra una captura de pantalla de una de nuestras sesiones de trabajo en equipo:
+
+![Reunión - Zoom](https://github.com/user-attachments/assets/3272f144-af46-435d-860c-4e7588faf35f)
+
+Estas reuniones permitieron una comunicación efectiva, la asignación de responsabilidades y la integración de ideas para lograr un sistema funcional y bien estructurado.
+
+
+---
 
 ## Agradecimientos
 
