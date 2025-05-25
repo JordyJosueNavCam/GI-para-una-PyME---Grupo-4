@@ -222,7 +222,7 @@ Para ejecutar el sistema, asegúrate de tener instaladas las siguientes dependen
 
 ## Agradecimientos
 
-Agradecemos a nuestra docente de Programación Orientada a Objetos por guiarnos en el desarrollo de este proyecto, el cual nos permitió aplicar conceptos clave de la programación modular, la orientación a objetos y la gestión estructurada de sistemas.
+Agradecemos a nuestro docente de Programación Orientada a Objetos por guiarnos en el desarrollo de este proyecto, el cual nos permitió aplicar conceptos clave de la programación modular, la orientación a objetos y la gestión estructurada de sistemas.
 
 También agradecemos a cada integrante del Grupo 4 por su compromiso y colaboración activa en cada etapa del trabajo.
 
